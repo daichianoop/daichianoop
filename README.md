@@ -1,5 +1,5 @@
- 💫 About Me
- <br><br>---<br><br>🎯 **I’m currently working on**  <br>I am engaged in innovative projects utilizing **Solidity**, **Next.js**, **Tailwind CSS**, and exploring applications in **Machine Learning**.<br><br>🤝 **I’m looking to collaborate on**  <br>I am seeking collaboration opportunities on projects that leverage **Next.js**, **React.js**, **Tailwind CSS**, alongside **MongoDB** and **Firebase** for dynamic web applications.<br><br>🧠 **I’m looking for help with**  <br>I am interested in receiving guidance on **AI/ML projects**, particularly those involving **image processing models**, as well as integrating **Solidity** with **Web3** technologies.<br><br>📚 **I’m currently learning**  <br>I am enhancing my skill set in **JavaScript**, **Solidity**, **Shell scripting**, and **Java** to broaden my technical expertise.<br><br>❓ **Ask me about**  <br>Feel free to inquire about my projects, experiences, or insights in web development and machine learning.<br><br>⚡ **Fun fact**  <br>I am passionate about exploring the intersection of technology and creativity, constantly seeking to innovate and push boundaries.<br><br>--- <br>
+# About Me:
+<br>---<br>🎯 **I’m currently working on**  <br>I am engaged in innovative projects utilizing **Solidity**, **Next.js**, **Tailwind CSS**, and exploring applications in **Machine Learning**.<br><br>🤝 **I’m looking to collaborate on**  <br>I am seeking collaboration opportunities on projects that leverage **Next.js**, **React.js**, **Tailwind CSS**, alongside **MongoDB** and **Firebase** for dynamic web applications.<br><br>🧠 **I’m looking for help with**  <br>I am interested in receiving guidance on **AI/ML projects**, particularly those involving **image processing models**, as well as integrating **Solidity** with **Web3** technologies.<br><br>📚 **I’m currently learning**  <br>I am enhancing my skill set in **JavaScript**, **Solidity**, **Shell scripting**, and **Java** to broaden my technical expertise.<br><br>❓ **Ask me about**  <br>Feel free to inquire about my projects, experiences, or insights in web development and machine learning.<br><br>⚡ **Fun fact**  <br>I am passionate about exploring the intersection of technology and creativity, constantly seeking to innovate and push boundaries.<br><br>--- 
 
 
 ## 🌐 Socials:
@@ -13,14 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichianoop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daichianoop&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=daichianoop&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=daichianoop&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=daichianoop&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=daichianoop&icon=5&color=3)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
