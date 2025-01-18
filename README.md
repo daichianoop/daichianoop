@@ -1,9 +1,11 @@
-Hello , I am Anoop 
-I am a Computer Science Student from Varansi, India.
+<div style="text-align: center; font-size: 24px;">  
+    Hello, I am Anoop<br>  
+    I am a Computer Science Student from Varansi, India.  
+</div>
 
 # 💫 About Me:
 
-**I’m currently working on**  <br>I am engaged in innovative projects utilizing **Solidity**, **Next.js**, **Tailwind CSS**, and exploring applications in **Machine Learning**.<br><br>🤝 **I’m looking to collaborate on**  <br>I am seeking collaboration opportunities on projects that leverage **Next.js**, **React.js**, **Tailwind CSS**, alongside **MongoDB** and **Firebase** for dynamic web applications.<br><br>🧠 **I’m looking for help with**  <br>I am interested in receiving guidance on **AI/ML projects**, particularly those involving **image processing models**, as well as integrating **Solidity** with **Web3** technologies.<br><br>📚 **I’m currently learning**  <br>I am enhancing my skill set in **JavaScript**, **Solidity**, **Shell scripting**, and **Java** to broaden my technical expertise.<br><br>❓ **Ask me about**  <br>Feel free to inquire about my projects, experiences, or insights in web development and machine learning.<br><br>⚡ **Fun fact**  <br>I am passionate about exploring the intersection of technology and creativity, constantly seeking to innovate and push boundaries.<br><br>--- 
+**I’m currently working on**  <br>I am engaged in innovative projects utilizing **Solidity**, **Next.js**, **Tailwind CSS**, and exploring applications in **Machine Learning**.<br><br>🤝 **I’m looking to collaborate on**  <br>I am seeking collaboration opportunities on projects that leverage **Next.js**, **React.js**, **Tailwind CSS**, alongside **MongoDB** and **Firebase** for dynamic web applications.<br><br>🧠 **I’m looking for help with**  <br>I am interested in receiving guidance on **AI/ML projects**, particularly those involving **image processing models**, as well as integrating **Solidity** with **Web3** technologies.<br><br>📚 **I’m currently learning**  <br>I am enhancing my skill set in **JavaScript**, **Solidity**, **Shell scripting**, and **Java** to broaden my technical expertise.<br><br>❓ **Ask me about**  <br>Feel free to inquire about my projects, experiences, or insights in web development and machine learning.<br><br>⚡ **Fun fact**  <br>I am passionate about exploring the intersection of technology and creativity, constantly seeking to innovate and push boundaries.<br><br>
 
 
 ## 🌐 Connect with me  
