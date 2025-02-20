@@ -1,7 +1,7 @@
 # Hello , I am Anoop Kumar
 I am a Computer Science student from Varanasi, India, passionate about exploring artificial intelligence and machine learning.
 
-https://backend.codecrafters.io/progress/shell/e9b352f3-81b3-468e-bf52-ab2c3b339d9c
+<img src="https://backend.codecrafters.io/progress/shell/e9b352f3-81b3-468e-bf52-ab2c3b339d9c"/>
 
 ## 💫 About Me:
 
