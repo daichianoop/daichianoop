@@ -32,17 +32,11 @@ I am a passionate developer exploring the intersection of **Artificial Intellige
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daichianoop&theme=highcontrast&show_icons=true&hide_border=false" alt="Anoop's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichianoop&theme=highcontrast&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daichianoop&theme=highcontrast&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=daichianoop&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=daichianoop&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichianoop&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=daichianoop&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-contributor-stats.vercel.app/api?username=daichianoop&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 
