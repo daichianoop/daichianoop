@@ -39,9 +39,8 @@ I am currently engaged in innovative projects utilizing Solidity, Next.js, and T
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichianoop&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=daichianoop&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
-
 ![](https://github-contributor-stats.vercel.app/api?username=daichianoop&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast)
 
-![](https://github-contributor-stats.vercel.app/api?username=daichianoop&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
